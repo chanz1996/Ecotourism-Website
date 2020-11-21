@@ -1,0 +1,31 @@
+.slide {
+
+  border: 10px solid black;
+}
+body{
+
+	background-image:url("back5.jpg");
+	background-repeat:no-repeat;
+	background-size:1500px 900px;
+	background-attachment:fixed;
+	
+}
+
+div {
+
+	float:right ;
+}
+
+header h1{
+display:inline;
+padding: 0 30px 0px 30px;
+background-color:#D1D1FF;
+ }
+
+
+
+nav{
+display:inline-block;
+padding: 0px 15px 75px 0px;
+background-color:#004700;
+ }

@@ -1,0 +1,28 @@
+body{
+    
+background-color:black;
+background-image: url("night-truck.jpg");
+background-repeat:no-repeat;
+background-size:1500px 400px;
+background-attachment:fixed;
+}
+
+h1
+{
+ color:white;
+font-weight:bold;
+
+}
+p
+{
+font-family: tahoma, geneva, sans-serif;
+color:white;
+font-weight:bold;
+}
+
+div.fixed{
+border:3px solid #8AC007
+		
+}
+
+
